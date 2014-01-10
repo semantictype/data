@@ -1,4 +1,4 @@
-data
+event data
 ====
 
 This data is used to evaluate our methodology which discovers the semantic type of events based on the context of their associated social media documents. Please, refer to our work when you use this data.
