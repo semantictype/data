@@ -1,4 +1,4 @@
-<paper title>
+paper title
 ====
 
 Data used in the paper with title '<paper title>'. 
