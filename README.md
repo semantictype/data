@@ -1,7 +1,7 @@
-event data
+<paper title>
 ====
 
-This data is used to evaluate our methodology which discovers the semantic type of events based on the context of their associated social media documents. Please, refer to our work when you use this data.
+Data used in the paper with title '<paper title>'. 
 
 The contents of this project are:
 
@@ -13,4 +13,4 @@ The contents of this project are:
 * features-nearest-documents-test.txt - The nearest-documents feature vectors of the events in events-test.txt.
 
 ###Questions
-In case you have any questions, feel free to contact me.
+This paper is under a double-blind reviewing process. Our contact information will be added after acceptation of the paper.
