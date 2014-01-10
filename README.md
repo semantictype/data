@@ -13,4 +13,4 @@ The contents of this project are:
 * features-nearest-documents-test.txt - The nearest-documents feature vectors of the events in events-test.txt.
 
 ###Questions
-This paper is under a double-blind reviewing process. Our contact information will be added after acceptation of the paper.
+This paper is under a double-blind reviewing process. Our contact information will be added after the paper is accepted.
